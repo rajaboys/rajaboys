@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rajaram D
+👋 Hi, I’m Rajaram D
 👀 I’m passionate about AI/ML and Data Engineering
 🌱 Currently exploring FastAPI for API development
 💞️ Open to collaborating on Python and PHP projects
