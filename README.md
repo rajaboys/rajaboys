@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rajaram D
-- 👀 I’m interested in AIML/Data Engineer
-- 🌱 I’m currently learning FastAPI   
-- 💞️ I’m looking to collaborate on Python/PHP projects
-- 📫 Please reach out @rajaboys in twitter
+👀 I’m passionate about AI/ML and Data Engineering
+🌱 Currently exploring FastAPI for API development
+💞️ Open to collaborating on Python and PHP projects
+📫 Connect with me on Twitter: @rajaboys
 
 <!---
 rajaboys/rajaboys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
